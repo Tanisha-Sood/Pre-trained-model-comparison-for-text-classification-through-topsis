@@ -1,7 +1,9 @@
 # Text Classification Model Comparison Project (using topsis)
 
 
-![Alt text](image-1.png)
+
+<img width="120" alt="image" src="https://github.com/Tanisha-Sood/Pre-trained-model-comparison-for-text-classification-through-topsis/assets/108357063/5dcd4e31-3527-4cfe-af15-f45d211b8b44">
+
 
 
 ## Overview
