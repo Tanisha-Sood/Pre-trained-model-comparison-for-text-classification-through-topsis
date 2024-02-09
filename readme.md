@@ -29,7 +29,6 @@ Text Classification is the task of assigning a label or class to a given text. T
 - **`result.csv`**: CSV file with ranked results in tabular format and data used for creating a bar chart.
 - **`BarChart.png`**: Bar chart visualizing the model comparison.
 
-## How to Run:
 
 ## Results and Analysis:
 
